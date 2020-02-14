@@ -99,7 +99,7 @@ public class UI {
 		System.out.print(" ");
 	}
 
-	private static void printCapturedPieces(List<ChessPiece> captured) {
+	private static void printCapturedPiece(List<ChessPiece> captured) {
 		List<ChessPiece> white = captured.stream().filter(x -> x.getColor() == Color.WHITE)
 				.collect(Collectors.toList());
 		List<ChessPiece> black = captured.stream().filter(x -> x.getColor() == Color.BLACK)
