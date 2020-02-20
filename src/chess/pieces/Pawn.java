@@ -39,7 +39,6 @@ public class Pawn extends ChessPiece {
 			if (getBoard().positionExists(p) && isThereOpponentPiece(p)) {
 				mat[p.getRow()][p.getColumn()] = true;
 			}
-
 		}
 
 		else {
@@ -64,7 +63,6 @@ public class Pawn extends ChessPiece {
 			if (getBoard().positionExists(p) && isThereOpponentPiece(p)) {
 				mat[p.getRow()][p.getColumn()] = true;
 			}
-
 		}
 		return mat;
 	}
@@ -73,5 +71,4 @@ public class Pawn extends ChessPiece {
 	public String toString() {
 		return "P";
 	}
-
 }
