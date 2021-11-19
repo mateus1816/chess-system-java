@@ -48,3 +48,12 @@ As peças no tabuleiro são representadas pela inicial do nome da peça em ingle
 
 Para movimentar as peças basta digitando letra e numero da casa em que a peça esta e aparecera as opções possiveis no tabuleiro, depois digitar letra e numero para a casa em que
 você quer levar a peça.
+
+## Escolhendo a peça
+![layout 1](https://media.discordapp.net/attachments/910560542756859975/911289883191021608/Captura_de_Tela_3.png?width=284&height=492)
+
+## Possibilidade de movimento
+![layout 2](https://media.discordapp.net/attachments/910560542756859975/911289883522379836/Captura_de_Tela_4.png?width=285&height=492)
+
+## Movimento realizado
+![layout 3](https://media.discordapp.net/attachments/910560542756859975/911289883933433916/Captura_de_Tela_5.png?width=285&height=492)
