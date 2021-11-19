@@ -28,9 +28,23 @@ encapsulamento, polimorfismo, abstração, herança.
   #Execute este comando para clonar o projeto
   git clone https://github.com/mateus1816/chess-system-java
   
-  #Abra o Git Bash na pasta do projeto
-  Botão direito do mouse/Git Bash Here
+  #Abra o Git Bash na pasta bin do projeto
+  cd chess-system-java/bin
   
   #Execute o comando para iniciar a aplicação
-  java application/program
+  java Application/Program
 </pre>
+
+## Como jogar
+
+As peças no tabuleiro são representadas pela inicial do nome da peça em ingles:
+
+- Pawn (Pião) = "P"
+- Rook (Torre) = "R"
+- Bishop (Bispo) = "B"
+- Knight (Cavaleiro/cavalo) = "N"
+- Queen (Rainhã) = "Q"
+- King (Rei) = "K"
+
+Para movimentar as peças basta digitando letra e numero da casa em que a peça esta e aparecera as opções possiveis no tabuleiro, depois digitar letra e numero para a casa em que
+você quer levar a peça.
